@@ -1,0 +1,8 @@
+{
+  "name": "LAN Video Streamer",
+  "description": "A web application to stream webcam video between two clients on a local network using WebRTC. One client acts as the broadcaster, and the other as the viewer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
